@@ -20,3 +20,6 @@ Header dan Navigasi: Menyesuaikan tampilan logo, menu navigasi, dan pencarian de
 Konten Utama: Mengatur gaya untuk judul, teks pengenalan, dan tombol ajakan bertindak.
 
 Formulir Login: Menyesuaikan tampilan formulir login, termasuk gaya untuk input dan tombol login.
+
+refefrence :
+https://youtu.be/CQZxeoQeo5c?si=LTBk6JJFoyz3MGGO
